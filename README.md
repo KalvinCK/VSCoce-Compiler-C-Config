@@ -1,5 +1,5 @@
 
-# Esses é o projeto que possue os arquivos nescessários para compilar programs em c++ No VSCode
+# Nesse projeto possuí os arquivos nescessários para compilar programas em c++ No VSCode
 
 
 ## Sobre os Arquivos
