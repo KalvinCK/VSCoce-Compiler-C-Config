@@ -1,5 +1,5 @@
 
-# Arquivos nescessários para compilar programas em c++ No VSCode
+# Arquivos nescessários para compilar programas em C++ No VSCode
 
 
 ## Sobre os Arquivos
